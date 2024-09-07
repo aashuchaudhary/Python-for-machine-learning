@@ -1,4 +1,4 @@
-##🌟 Machine Learning Journey 🚀
+## 🌟 Machine Learning Journey 🚀
 Just the beginning of my Machine Learning Journey!
 This repository will serve as a comprehensive guide, starting from Python fundamentals to covering all key Machine Learning concepts in one place.
 
